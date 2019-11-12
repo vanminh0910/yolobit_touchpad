@@ -13,7 +13,7 @@ Blockly.Blocks['touchpad_create'] = {
         ],
         "previousStatement": null,
         "nextStatement": null,
-        "colour": "#0fbc11",
+        "colour": "#e63022",
         "tooltip": Blockly.Msg.TOUCHPAD_CREATE_TOOLTIP,
         "helpUrl": Blockly.Msg.TOUCHPAD_CREATE_HELPURL
       }
@@ -53,7 +53,7 @@ Blockly.Blocks['touchpad_istouch'] = {
           }
         ],
         "output": "Boolean",
-        "colour": "#0fbc11",
+        "colour": "#e63022",
         "tooltip": Blockly.Msg.TOUCHPAD_ISTOUCHED_TOOLTIP,
         "helpUrl": Blockly.Msg.TOUCHPAD_ISTOUCHED_HELPURL
       }
